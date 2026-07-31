@@ -1,0 +1,1 @@
+LaptopPricePredictor/models/*.pkl filter=lfs diff=lfs merge=lfs -text
